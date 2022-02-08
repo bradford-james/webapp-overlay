@@ -1,3 +1,3 @@
 # webapp-overlay
 
-Test message
+Create overlay in current window
